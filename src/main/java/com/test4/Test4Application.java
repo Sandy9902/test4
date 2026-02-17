@@ -7,7 +7,15 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Test4Application {
 
 	public static void main(String[] args) {
+		String name = "Sam";
+        int x = 200;
+		boolean isPresent = false;
+		int y = 300;
+		char x = 'c';
+		int y = 30;
+		double z = 10.5;
+		boolean isPresent = true;
+		float f = 20.4;
 		SpringApplication.run(Test4Application.class, args);
 	}
-
 }
