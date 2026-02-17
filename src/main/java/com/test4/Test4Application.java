@@ -16,7 +16,7 @@ public class Test4Application {
 		double d =20.3;
 		boolean isPresent = false;
 		float f = 40.4f;
+		char b = 't';
 		SpringApplication.run(Test4Application.class, args);
 	}
-
 }
