@@ -17,6 +17,17 @@ public class Test4Application {
 		boolean isPresent = false;
 		float f = 40.4f;
 		char b = 't';
+		String name = "Sam";
+    int x = 200;
+		boolean isPresent = false;
+		int y = 300;
+		char x = 'c';
+		int y = 30;
+		double z = 10.5;
+		boolean isPresent = true;
+		float f = 20.4;
+    char ch = 'r';
+    boolean isSubs = true;
 		SpringApplication.run(Test4Application.class, args);
 	}
 }
