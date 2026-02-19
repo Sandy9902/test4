@@ -1,0 +1,10 @@
+
+public class A{
+int x =100;
+Static int y =400;
+public static void main(String[] args){
+A a1 = new A();
+System.out.println(a1.x);
+System.out.println(A.y);
+}
+}
